@@ -30,3 +30,6 @@ ng new angular7
 ng serve -o
 ng g c about
 ng g s data
+
+ng build 
+ng build --prod
